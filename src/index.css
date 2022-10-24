@@ -1,0 +1,238 @@
+body {
+  margin: 0;
+  /* font-family:cursive; */
+
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+
+
+/* DEEN ADMIN */
+
+.d-flex{
+  display: flex;
+  align-items: center;
+}
+
+.adminPage{
+  width: 98%;
+  margin: auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  height: 400px;
+}
+.profile-container{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+
+}
+.profile{
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.sidebar{
+  width: 25%;
+  background-color: rgba(185, 43, 39, 0.2);
+  /* border: 1px solid black; */
+  height: 100vh;
+  margin: auto;
+
+}
+
+.nav-button-div{
+width: 80%;
+margin: 10px auto;
+}
+
+.nav-button-div button{
+  width: 100%;
+  padding: 20px;
+  background-color: white;
+  border: solid 2px #B92B27;
+  /* color: white; */
+}
+
+.admin-body{
+  width: 75%;
+  padding: 10px;
+  /* height: 400px; */
+
+}
+
+
+
+/* CREATE USER */
+
+.create-user-section{
+  width: 100%;
+}
+
+.create-user-section form{
+  width: 80%;
+  margin: auto;
+}
+
+.icon{
+  color: #B92B27;
+}
+
+.create-user-section .input{
+  width: 100%;
+  padding: 10px;
+  outline: none;
+
+  border: solid 1px ;
+
+}
+
+.input-area{
+  margin: 20px auto ;
+}
+.input-area label{
+  margin-bottom: 10px;
+}
+.input:focus {
+  background-color: rgba(185, 43, 39, 0.05);
+}
+
+.create-btn{
+  padding: 10px;
+  width: 100%;
+  outline: none;
+  border: 2px solid #fff;
+  color: #fff;
+  font-size: 25px;
+  background-color: #B92B27;
+  border-radius: 80px;
+  transition: all 0.3s 0s linear;
+}
+
+.create-btn:hover {
+  border: 2px solid #B92B27;
+  color: #B92B27;
+  background-color: #fff;
+}
+
+/* Manage Users */
+.users-row{
+  gap: 10px;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+
+  width: 100%;
+  margin-top: 20px;
+
+}
+.user{
+  /* font-size: 20px; */
+  background-color: white;
+  padding: 8px;
+  border: 1px solid #dede;
+  box-shadow: 0px 0px 7px 0px rgba(185, 43, 39, 0.1);
+  height: auto;
+}
+
+
+
+.buttons{
+  width: 90%;
+  /* height: 10%; */
+  margin: 10px auto;
+  display: inline-flex;
+}
+.user .buttons button{
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+  width: 45px;
+  height: 45px;
+  margin: 2px;
+  outline: none;
+  border: 1px solid #B92B27;
+  border-radius: 50%;
+  background-color: #fff;
+
+}
+
+.buttons button:hover{
+  background-color: #B92B27;
+}
+.buttons button:hover .icon{
+  color: #fff ;
+}
+
+
+
+.post-body-format{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+/* DASHBOARD CONTENT */
+.base-color{
+  color: #B92B27;
+}
+.dashboard-content{
+  padding: 10px;
+  /* background-color: rgba(238, 238, 238, 0.5); */
+}
+
+.dashboard-row1{
+  width: 80%;
+  margin: 30px auto;
+  justify-content: space-between;
+  gap: 30px;
+
+}
+
+.count{
+  box-shadow: 0px 0px 20px 1px rgba(9, 5, 4, 0.2) inset;
+  box-shadow: 0px 0px 20px 1px rgba(185, 43, 39, 0.3) inset;
+  background-color: #fff;
+  width: 50%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.count center p, .count center p span, .post div{
+  font-family:cursive;
+
+}
+
+
+.post-row{
+  justify-content: space-evenly;
+  gap: 10px;
+  align-items: flex-start;
+}
+.post{
+  width: 33%;
+  height: 100px;
+  padding: 3px;
+}
