@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c82901fb.css",
+    "main.js": "/static/js/main.af2da0ad.js",
+    "static/media/slide3.png": "/static/media/slide3.fac959c8b58c2635e50c.png",
+    "static/media/slide2.png": "/static/media/slide2.190c83233783f18f907a.png",
+    "static/media/slide1.png": "/static/media/slide1.75386d9d7b130cb75ef3.png",
+    "static/media/wings.png": "/static/media/wings.7f2f481a6d744b35e572.png",
+    "static/media/row1.png": "/static/media/row1.d78d94a747fad5ed08bc.png",
+    "static/media/row3.png": "/static/media/row3.054fb4c6e4b1ffa57049.png",
+    "static/media/row2.png": "/static/media/row2.537cd5895fb4ff805618.png",
+    "static/media/row5c.jpg": "/static/media/row5c.60a7ce908f4418b5c225.jpg",
+    "static/media/promo-img.png": "/static/media/promo-img.49d95057b8ce837d1f17.png",
+    "static/media/row6b.jpg": "/static/media/row6b.a9379f4b63b9b15dac48.jpg",
+    "static/media/row4c.jpg": "/static/media/row4c.292b86980c668ed524b6.jpg",
+    "static/media/row5b.jpg": "/static/media/row5b.0428d4f4b9bc6d16bc27.jpg",
+    "static/media/row5a.jpg": "/static/media/row5a.c57519baf94c58ff6f33.jpg",
+    "static/media/row6a.jpg": "/static/media/row6a.eecf9786eb286e828aea.jpg",
+    "static/media/attach.png": "/static/media/attach.4e78b075bbf5c4c0cfc9.png",
+    "static/media/row6c.jpg": "/static/media/row6c.cb1df5b18f02b1752a8a.jpg",
+    "static/media/row4a.jpg": "/static/media/row4a.a7f44725d86f125058bb.jpg",
+    "static/media/row4b.jpg": "/static/media/row4b.28b1718beb6a102c93db.jpg",
+    "static/media/grocery.webp": "/static/media/grocery.c1c95450a4fd3bd1b3d3.webp",
+    "static/media/fashion.webp": "/static/media/fashion.70b08a01d4b5d4417d95.webp",
+    "static/media/beauty.webp": "/static/media/beauty.f5a79993cab54565f46b.webp",
+    "static/media/home and furniture.webp": "/static/media/home and furniture.faf1b0deb7b8bc618005.webp",
+    "static/media/electronics.webp": "/static/media/electronics.1db6bf16a4bff1bb6cc7.webp",
+    "static/media/travel.webp": "/static/media/travel.94ec302b4d9aafd3d801.webp",
+    "static/media/appliances.webp": "/static/media/appliances.49103e0d1161c8847cba.webp",
+    "static/media/mobiles.webp": "/static/media/mobiles.1fd6021d5ec82c290970.webp",
+    "static/media/top-offers.webp": "/static/media/top-offers.3decbc3062275d370025.webp",
+    "index.html": "/index.html",
+    "main.c82901fb.css.map": "/static/css/main.c82901fb.css.map",
+    "main.af2da0ad.js.map": "/static/js/main.af2da0ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c82901fb.css",
+    "static/js/main.af2da0ad.js"
+  ]
+}
